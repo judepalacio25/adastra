@@ -1,0 +1,104 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title> AD ASTRA </title>
+<link rel="icon" type="png" href="FAVICON.png">
+<style>
+body {
+background-image: url('Background.png');
+}
+table, th, td {
+border: none;
+border-collapse: collapse;
+}
+</style>
+</head>
+
+<!--Used heading for organizational purposes, while text are all paragraphs.-->
+
+<center>
+<table style = "width:60%">
+<tr>
+<th style = "font-size: 40px; color: white; font-family: Arial; text-align: center"> About us </th>
+</tr>
+<!--||||||||-->
+<tr>
+<td style = "font-size: 20px; color: white; font-family: Arial; text-align: center"> We aim to teach students on how to effectively design and efficiently create a layout that will minimize hassles and the overall negative experience that may hindle user experience. With the combining elements of informational text, visuals and an educational game that will help students and all of kinds learner to apply what they have learned, increasing practical learning while maintaining an engaging learning environment. </td>
+</tr>
+</table>
+<!--||||||||-->
+
+<br>
+
+<table style = "width:60%">
+<tr>
+<th style = "font-size: 40px; color: white; font-family: Arial; text-align: center"> Introduction </th>
+</tr>
+<!--||||||||-->
+<tr>
+<td style = "font-size: 20px; color: white; font-family: Arial; text-align: center"> The overall goal of our website is to teach you how to properly assemble a website without it making an eyesore to your user. Here's a basic overview on what you'll learn and what to expect while going through your learning journey: </td>
+</tr>
+</table>
+<!--||||||||-->
+
+<br>
+
+<table style = "width:60%">
+<tr>
+<th style = "font-size: 40px; color: white; font-family: Arial; text-align: center"> What To Expect: </th>
+</tr>
+<!--||||||||-->
+<tr>
+<td style = "font-size: 20px; color: white; font-family: Arial; text-align: center"> Various lessons on how to build a good website. </td>
+</tr>
+<!--||||||||-->
+<tr>
+<td style = "font-size: 20px; color: white; font-family: Arial; text-align: center"> Games to test your website knowledge after every lesson (like a test). </td>
+</tr>
+<!--||||||||-->
+<tr>
+<td style = "font-size: 20px; color: white; font-family: Arial; text-align: center"> A final game (or test) to test everything you learned from the lessons. </td>
+</tr>
+</table>
+
+<br>
+
+<table style = "width:60%">
+<tr>
+<th style = "font-size: 40px; color: white; font-family: Arial; text-align: center"> What you'll be learning: </th>
+</tr>
+<!--||||||||-->
+<tr>
+<td style = "font-size: 20px; color: white; font-family: Arial; text-align: center"> Efficiently design a website layout for easy navigation. </td>
+</tr>
+<!--||||||||-->
+<tr>
+<td style = "font-size: 20px; color: white; font-family: Arial; text-align: center"> Make sure that your textual content is clear, relevant and memorable. Also how to effectively communicate your website's intended message. </td>
+</tr>
+<!--||||||||-->
+<tr>
+<td style = "font-size: 20px; color: white; font-family: Arial; text-align: center"> Provide clear and user-friendly functionality. </td>
+</tr>
+<!--||||||||-->
+<tr>
+<td style = "font-size: 20px; color: white; font-family: Arial; text-align: center"> Make use of interactive elements for your website. </td>
+</tr>
+<!--||||||||-->
+<tr>
+<td style = "font-size: 20px; color: white; font-family: Arial; text-align: center"> Enhance their engagement and enjoyment while browsing. </td>
+</tr>
+</table>
+</center>
+
+<br>
+
+<!--GAME HERE-->
+<center>
+<iframe src="https://scratch.mit.edu/projects/1286774571/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</center>
+
+<br>
+
+<center>
+<iframe src="https://scratch.mit.edu/projects/1286779755/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</center>
